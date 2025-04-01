@@ -13,7 +13,7 @@ Phát triển bởi [ThaoVD](https://vuthao.id.vn)
 
 ## Ảnh chụp màn hình Giao diện
 
-![Screenshot]([https://i.ibb.co/F4hDnTDr/2.jpg](https://i.ibb.co/Xx1WLpgn/ezgif-3bf51249196ecd.gif))
+![Screenshot](https://i.ibb.co/Xx1WLpgn/ezgif-3bf51249196ecd.gif)
 
 
 
