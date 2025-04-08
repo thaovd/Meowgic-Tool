@@ -1,6 +1,6 @@
 # Meowgic Tool ✨
 
-[![Version](https://img.shields.io/badge/Version-3.0.3-blue.svg)](https://github.com/thaovd/meowgic-tool/releases)
+[![Version](https://img.shields.io/badge/Version-3.0.10-blue.svg)](https://github.com/thaovd/meowgic-tool/releases)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Meowgic Tool** là một bộ công cụ đa năng được thiết kế để đơn giản hóa các tác vụ liên quan đến video và âm thanh, tích hợp nhiều tính năng hữu ích vào một giao diện duy nhất.
